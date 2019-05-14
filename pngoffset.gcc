@@ -1,0 +1,1 @@
+gcc -o pngoffset pngoffset.c -I /mingw32/include -L/mingw32/lib -lpng16
